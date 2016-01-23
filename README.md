@@ -1,6 +1,8 @@
 # wemaindo
 Web Matrix Interface with Arduino 
 
+here you can see the code in action: https://youtu.be/6_5lUVjxT8s
+
 This git contains an Arduino sketch that is compatible to most Arduino boards and the Arduino Ethernet Shield. Also included
 is an index.htm file that should be stored on a mirco sd card and then plugged into the Arduino Ethernet Shield.
 
